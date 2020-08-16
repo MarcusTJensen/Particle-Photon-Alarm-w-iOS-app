@@ -1,6 +1,0 @@
-framework module Pods_PhotonConnect {
-  umbrella header "Pods-PhotonConnect-umbrella.h"
-
-  export *
-  module * { export * }
-}
