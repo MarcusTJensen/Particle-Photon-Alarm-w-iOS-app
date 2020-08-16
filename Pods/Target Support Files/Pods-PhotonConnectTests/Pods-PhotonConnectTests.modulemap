@@ -1,0 +1,6 @@
+framework module Pods_PhotonConnectTests {
+  umbrella header "Pods-PhotonConnectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

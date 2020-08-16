@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-PhotonConnect-PhotonConnectUITests/Pods-PhotonConnect-PhotonConnectUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/1PasswordExtension/OnePasswordExtension.framework
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Particle-SDK/Particle_SDK.framework
+${BUILT_PRODUCTS_DIR}/Spark-SDK/Spark_SDK.framework
+${BUILT_PRODUCTS_DIR}/SparkSetup/SparkSetup.framework
